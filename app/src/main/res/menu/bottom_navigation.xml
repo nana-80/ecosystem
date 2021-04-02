@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+          android:icon="@drawable/ic_home"
+          android:id="@+id/nav_home"
+          android:title="Home">
+     </item>
+
+
+    <item
+        android:icon="@drawable/ic_alarm"
+        android:id="@+id/nav_schedule"
+        android:title="schedule">
+    </item>
+
+
+    <item
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/nav_settings"
+        android:title="settings">
+    </item>
+</menu>

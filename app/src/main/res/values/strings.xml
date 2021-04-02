@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EuphoriaWIfi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabview">TabviewActivity</string>
+    <string name="tab_text_1">color picker</string>
+    <string name="tab_text_2">Effects</string>
+    <string name="tab_text_3">Notifications</string>
+
+    <!--Onboard screen-->
+    <string name="title1">Simple User Interface</string>
+    <string name="title2">Comes with various light effects</string>
+    <string name="title3">A colour picker wheel</string>
+    <string name="title_activity_tab_nav">TabNav</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="start">Start</string>
+
+
+</resources>
